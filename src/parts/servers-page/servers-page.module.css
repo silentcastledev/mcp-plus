@@ -1,0 +1,9 @@
+button.deleteButton {
+  @apply cursor-pointer opacity-40;
+  /*background-color: var(--accent-a3);*/
+  /*color: var(--accent-a4);*/
+}
+
+button.deleteButton:hover {
+  @apply opacity-100;
+}
